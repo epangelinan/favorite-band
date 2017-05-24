@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+img {
+  width: 150px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.sidebar {
+  background-color: yellow;
+  float: right;
+  width: 300px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
