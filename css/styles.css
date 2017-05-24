@@ -3,6 +3,7 @@ body {
 }
 
 img {
+  padding:10px;
   width: 150px;
 }
 
@@ -11,6 +12,9 @@ p {
 }
 
 .sidebar {
+  margin:20px;
+  border:5px solid purple;
+  padding: 6px;
   background-color: yellow;
   float: right;
   width: 300px;
